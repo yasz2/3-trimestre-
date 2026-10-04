@@ -1,0 +1,40 @@
+:root{
+    --fundo: #008000;
+    --cor-texto: #ffffff;
+    --cor-texto-preto: #000000;
+    --frente-cartao: #C71585;
+    --verso-cartao: #FF4500;
+}
+body{
+    background-color: var(--fundo);
+}
+
+.Cartão__Conteúdo{
+background-color: var(--frente-cartao);
+text-align: center;
+}
+
+.Cartão__Conteúdo h3{
+    color: var(--cor-texto);
+    border: 1px solid var(--cor-texto-preto);
+    text-align: left;
+    padding: 0.5rem;
+    margin: 0.6rem;
+    position: absolute;
+    border-radius: 0.6rem;
+    font-size: 1vw;
+}
+
+.Cartão__Conteúdo p{
+    margin-top: 1rem;
+    padding: 2rem;
+    font-size: 1vw;
+}
+
+.Cartão__Conteúdo__Pergunta{
+
+}
+
+.Cartão__Conteúdo__Resposta{
+    
+}
