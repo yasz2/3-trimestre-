@@ -3,7 +3,7 @@
     --cor-texto: #ffffff;
     --cor-texto-preto: #000000;
     --frente-cartao: #F4A460;
-    --verso-cartao: #FF4500;
+    --verso-cartao: #D2691E;
 }
 body{
     background-color: var(--fundo);
