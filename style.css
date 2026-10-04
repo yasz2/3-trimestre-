@@ -1,8 +1,8 @@
 :root{
-    --fundo: #008000;
+    --fundo: 	#EE82EE;
     --cor-texto: #ffffff;
     --cor-texto-preto: #000000;
-    --frente-cartao: #C71585;
+    --frente-cartao: #4f6cff;
     --verso-cartao: #FF4500;
 }
 body{
