@@ -19,53 +19,53 @@ criarCartao(
 criarCartao(
     'Matemática',
     'Como se calcula a área de um retângulo?',
-    'resposta'
+    'Multiplicando a medida da sua base pela medida da sua altura ($\text{Área} = \text{base} \times \text{altura}$).'
 )
 
 criarCartao(
-    'categoria',
-    'pergunta',
-    'resposta'
+    'História',
+    'O que foi a Revolução Industrial?',
+    'Foi o processo de transição de uma economia agrária e artesanal para uma dominada pela indústria e pela fabricação mecanizada, iniciado na Inglaterra no século XVIII.'
 )
 
 criarCartao(
-    'categoria',
-    'pergunta',
-    'resposta'
+    'História',
+    'O que marcou o fim da Idade Média?',
+    'Tradicionalmente, considera-se a queda de Constantinopla em 1453 como o marco do fim da Idade Média e início da Idade Moderna.'
 )
 
 criarCartao(
-    'categoria',
-    'pergunta',
-    'resposta'
+    'Geografia',
+    'O que são as placas tectônicas?',
+    'São grandes blocos rochosos rígidos que compõem a crosta terrestre e flutuam sobre o manto, movimentando-se continuamente e causando fenômenos como terremotos e vulcanismo.'
 )
 
 criarCartao(
-    'categoria',
-    'pergunta',
-    'resposta'
+    'Geografia',
+    'Qual é o maior oceano do planeta Terra?',
+    'O Oceano Pacífico, cobrindo cerca de um terço da superfície terrestre.'
 )
 
 criarCartao(
-    'categoria',
-    'pergunta',
-    'resposta'
+    'Biologia',
+    'Qual é a função da fotossíntese nas plantas?',
+    'Converter a energia solar, água e gás carbônico em glicose (alimento para a planta) e oxigênio, que é liberado na atmosfera.'
 )
 
 criarCartao(
-    'categoria',
-    'pergunta',
-    'resposta'
+    'Biologia',
+    'O que é uma célula?',
+    'É a menor unidade estrutural e funcional básica de todos os seres vivos.'
 )
 
 criarCartao(
-    'categoria',
-    'pergunta',
-    'resposta'
+    'Química',
+    'Qual é a fórmula química da água e o que ela significa?',
+    'A fórmula é $\text{H}_2\text{O}$, o que significa que cada molécula de água é composta por dois átomos de hidrogênio e um átomo de oxigênio.'
 )
 
 criarCartao(
-    'categoria',
-    'pergunta',
-    'resposta'
+    'Física',
+    'O que diz a Primeira Lei de Newton?',
+    'Um corpo em repouso tende a permanecer em repouso, e um corpo em movimento tende a continuar em movimento retilíneo uniforme, a menos que uma força externa atue sobre ele.'
 )
