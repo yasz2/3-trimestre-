@@ -40,3 +40,7 @@ font-weight: 500;
     color: var(--verso-cartao);
     font-weight: 700;
 }
+
+.cartao.active .Cartão__Conteúdo{
+    transform: rotate(180deg);
+}
